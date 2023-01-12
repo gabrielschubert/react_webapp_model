@@ -1,3 +1,3 @@
-# Mogno Items Catalog System
+# React Webapp Model
 
 This is a Web app built to ...
